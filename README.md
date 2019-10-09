@@ -1,2 +1,4 @@
 # Playing-around
-Put together random stuff that i might find usefull later
+Stuff i did for fun, playing around to learn stuff. 
+
+Highlight: Mario kart optimization based on data science. 
